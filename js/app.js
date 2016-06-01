@@ -1,10 +1,12 @@
 function ready() {
-    Notification.requestPermission( newMessage );
-
-    function newMessage(permission) {
-        if( permission != "granted" ) return false;
-        var notify = new Notification("Thanks for letting notify you");
-    };
+    var OneSignal = OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "716ddf09-5d1a-4e7e-863c-daacdabe001c",
+      subdomainName: 'lightitbirthdays',
+      notifyButton: {
+          enable: true /* Set to false to hide */
+      }
+    }]);
 }
 
   document.addEventListener("DOMContentLoaded", ready);
