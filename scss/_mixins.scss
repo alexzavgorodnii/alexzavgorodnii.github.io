@@ -1,0 +1,29 @@
+@mixin displayFlex {
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-lg: 1200px;
+
+@mixin respond-to($resolution) {
+  @if $resolution == mobile {
+    @media only screen and (max-width: $screen-xs) { @content; }
+  }
+  @else if $resolution == tablet {
+    @media only screen and (min-width: $screen-xs + 1) and (max-width: $screen-sm - 1) { @content; }
+  }
+  @else if $resolution == small-desctop {
+    @media only screen and (min-width: $screen-sm + 1) and (max-width: $screen-md - 1) { @content; }
+  }
+  @else if $resolution == desctop {
+    @media only screen and (min-width: $screen-lg) { @content; }
+  }
+}

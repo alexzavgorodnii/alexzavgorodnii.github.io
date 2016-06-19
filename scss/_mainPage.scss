@@ -1,28 +1,39 @@
 @import "vars";
+@import "mixins";
 body {
     background-color: $blue;
     height: 100vh;
     overflow: hidden;
 }
-.main-page-content {
-    .my-photo {
-        width: 400px;
-        height: 385px;
-        border-radius: 100%;
-        background-image: url('../../prod/img/me.png');
-        &:hover {
-            background-position: -100% 0;
+.my-page-content {
+    width: 100%;
+    height: 100%;
+    @include displayFlex;
+    align-items: center;
+    justify-content: center;
+    .my-info {
+        max-width: 50%;
+        .my-photo {
+            width: 400px;
+            height: 385px;
+            border-radius: 100%;
+            background-image: url('../../prod/img/me.png');
+            &:hover {
+                background-position: -100% 0;
+            }
+            a {
+                width: 100%;
+                height: 100%;
+                display: inline-block;
+            }
         }
-        a {
+        .my-name {
+            padding-top: 20px;
             width: 100%;
-            height: 100%;
-            display: inline-block;
+            text-align: center;
+            font-family: 'Oleo Script Swash Caps', cursive;
+            font-size: 2em;
+            color: #fefefe;
         }
-    }
-    .my-name {
-        padding-top: 20px;
-        font-family: 'Oleo Script Swash Caps', cursive;
-        font-size: 2em;
-        color: #fefefe;
     }
 }
