@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alexzavgorodnii/alexzavgorodnii.github.io#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-sass": "^2.3.1"
   }
 }
