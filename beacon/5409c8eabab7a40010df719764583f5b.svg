@@ -1,0 +1,20 @@
+<svg width="36" height="36" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> Information</title>
+    <desc>Created using Figma</desc>
+    <g id="Canvas" transform="translate(387 2926)">
+        <g id="Icon / Information">
+            <g id="Background">
+                <use xlink:href="#path0_fill" transform="translate(-387 -2926)" fill="#F2F2F2"/>
+            </g>
+            <g id="Glyphs">
+                <g id="Location Icon">
+                    <use xlink:href="#path1_fill" transform="translate(-377 -2914)" fill="#14CC48"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="path0_fill" fill-rule="evenodd" d="M 18 36C 27.9411 36 36 27.9411 36 18C 36 8.05887 27.9411 0 18 0C 8.05887 0 0 8.05887 0 18C 0 27.9411 8.05887 36 18 36Z"/>
+        <path id="path1_fill" fill-rule="evenodd" d="M 14 0L 0 6.3645L 7.77777 6.3645L 7.77777 14.0018L 14 0Z"/>
+    </defs>
+</svg>
