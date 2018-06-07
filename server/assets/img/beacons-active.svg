@@ -1,0 +1,31 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Menu Item - 1 ON</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-4574 15300)">
+<g id="Menu Item - 1 ON">
+<g id="Icons / Navigation / My Beacons">
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 4574 -15300L 4606 -15300L 4606 -15268L 4574 -15268L 4574 -15300Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="albums" clip-path="url(#clip-0)">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(4578 -15288)" fill="#14CC48"/>
+</g>
+<g id="Vector (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(4579 -15292)" fill="#14CC48"/>
+</g>
+<g id="Vector (Stroke)">
+<use xlink:href="#path2_fill" transform="translate(4580 -15296)" fill="#14CC48"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 22 16L 2 16C 0.895 16 0 15.105 0 14L 0 2C 0 0.895 0.895 0 2 0L 22 0C 23.105 0 24 0.895 24 2L 24 14C 24 15.105 23.105 16 22 16Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 1C 0 0.447715 0.447715 0 1 0L 21 0C 21.5523 0 22 0.447715 22 1C 22 1.55228 21.5523 2 21 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 1C 0 0.447715 0.447715 0 1 0L 19 0C 19.5523 0 20 0.447715 20 1C 20 1.55228 19.5523 2 19 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
+</defs>
+</svg>

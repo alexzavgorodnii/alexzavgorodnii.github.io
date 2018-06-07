@@ -1,0 +1,34 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Menu Item - 5 OFF</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-5289 15299)">
+<g id="Notifications">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 5289 -15299L 5321 -15299L 5321 -15267L 5289 -15267L 5289 -15299Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="bell" clip-path="url(#clip-0)">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(5295 -15294)" fill="#BDBDBD"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(5302 -15273)" fill="#BDBDBD"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(5303 -15296)" fill="#BDBDBD"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(5314 -15277)" fill="#BDBDBD"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(5294 -15277)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 17 9.757L 17 7C 17 3.134 13.866 0 10 0C 6.134 0 3 3.134 3 7L 3 9.757C 3 12.474 1.921 15.079 0 17L 0 19L 20 19L 20 17C 18.079 15.079 17 12.474 17 9.757Z"/>
+<path id="path1_fill" d="M 3 3C 4.657 3 6 1.657 6 0L 0 0C 0 1.657 1.343 3 3 3Z"/>
+<path id="path2_fill" d="M 4 4L 0 4L 0 2C 0 0.895 0.895 0 2 0C 3.105 0 4 0.895 4 2L 4 4Z"/>
+<path id="path3_fill" d="M 1 2C 1.55228 2 2 1.55228 2 1C 2 0.447715 1.55228 0 1 0C 0.447715 0 0 0.447715 0 1C 0 1.55228 0.447715 2 1 2Z"/>
+</defs>
+</svg>

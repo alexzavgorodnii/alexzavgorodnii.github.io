@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Menu Item - 2 OFF</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-4721 15300)">
+<g id="Menu Item - 2 OFF">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 4721 -15300L 4753 -15300L 4753 -15268L 4721 -15268L 4721 -15300Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="price_tag" clip-path="url(#clip-0)">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(4725 -15296)" fill="#BDBDBD"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 19.9998 0L 13.9998 0C 13.4878 0 12.9758 0.195 12.5858 0.586L 0.58575 12.586C -0.19525 13.367 -0.19525 14.633 0.58575 15.414L 8.58575 23.414C 9.36675 24.195 10.6327 24.195 11.4137 23.414C 11.8047 23.023 23.0227 11.805 23.4137 11.414C 23.8047 11.024 23.9998 10.512 23.9998 10L 23.9998 4C 23.9998 1.791 22.2088 0 19.9998 0ZM 19.9998 6C 18.8948 6 17.9998 5.105 17.9998 4C 17.9998 2.895 18.8948 2 19.9998 2C 21.1048 2 21.9998 2.895 21.9998 4C 21.9998 5.105 21.1048 6 19.9998 6Z"/>
+</defs>
+</svg>

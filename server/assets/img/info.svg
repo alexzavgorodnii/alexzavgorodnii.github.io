@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>info</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-449 -9884)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 449 9884L 513 9884L 513 9948L 449 9948L 449 9884Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="info" clip-path="url(#clip-0)">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(457 9892)" fill="#E0E0E0"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 24 0C 10.746 0 0 10.746 0 24C 0 37.254 10.746 48 24 48C 37.254 48 48 37.254 48 24C 48 10.746 37.254 0 24 0ZM 26 36L 22 36L 22 22L 26 22L 26 36ZM 24 17C 22.344 17 21 15.656 21 14C 21 12.344 22.344 11 24 11C 25.656 11 27 12.344 27 14C 27 15.656 25.656 17 24 17Z"/>
+</defs>
+</svg>
