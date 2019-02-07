@@ -1,0 +1,115 @@
+{
+  "Header.login.button": "Connectez-vous à votre compte existant",
+  "Jumbo.h1": "Guide pratique de la médecine interne",
+  "Jumbo.subscription": "Un abonnement pour toutes les plateformes pour 19,99 $ / an",
+  "Jumbo.subscription-mob-1": "7 days free trial, $19.99/year",
+  "Jumbo.subscription-mob-2": "One subscription for all platforms ",
+  "Jumbo.button.try": "Essayez la version Web",
+  "Jumbo.info": "Aucune inscription ou carte de crédit requise",
+  "FixedMenu.item-1": "Recherche puissante",
+  "FixedMenu.item-2": "Conception médicale",
+  "FixedMenu.item-3": "Note Sync",
+  "FixedMenu.item-4": "Intégration de l'application",
+  "FixedMenu.item-5": "Toujours à jour",
+  "FixedMenu.item-6": "Rubriques sur les fonctionnalités",
+  "FixedMenu.item-7": "Authors",
+  "Promo.item-1": "Toujours au courant des dernières nouveautés en médecine interne générale",
+  "Promo.item-2": "Un bon équilibre entre une référence médicale approfondie et un guide clinique pratique",
+  "Promo.item-3": "Un abonnement, n'importe quel appareil. Disponible pour iOS, Android et maintenant directement sur le Web",
+  "Feature.item-1": {
+    "title": "Recherche puissante",
+    "sub-title": "La fonction de recherche a été optimisée pour une utilisation clinique. Vous pouvez même effectuer une recherche en utilisant des abréviations courantes.",
+    "text": "Recherche <a href=\"htn\" target=\"_blank\">htn</a>, vous obtenez la page hypertension artérielle."
+  },
+  "Feature.item-2": {
+    "title": "Conception médicale",
+    "sub-title": "Conçu par des médecins pour des médecins. Ce dont nous avons besoin quand nous en avons besoin.",
+    "text": "Réorganisez les onglets, consultez et accédez rapidement à vos notes, parcourez les références, etc."
+  },
+  "Feature.item-3": {
+    "title": "Note Sync (iOS uniquement)",
+    "sub-title": "Prenez des notes personnelles dans les sections et synchronisez-les sur vos appareils iOS (nécessite un compte gratuit).",
+    "text": "Vos précieuses notes sont également enregistrées sur nos serveurs, ce qui signifie que si vous perdez votre appareil, vous pourrez les récupérer."
+  },
+  "Feature.item-4": {
+    "title": "Intégration d'application (iOS uniquement)",
+    "MedCalX.title": "Intégration MedCalX",
+    "MedCalX.text": "Accès direct à la calculatrice médicale de confiance (vendue séparément). Un accès facile signifie que vous l’utiliserez.",
+    "QxMD.title": "Lu par QxMD",
+    "QxMD.text": "Références validées par le Dr Lanthier lui-même. Lien vers les références dans Lecture pour vous permettre de constituer une collection d'articles de qualité."
+  },
+  "Feature.item-5": {
+    "title": "Toujours à jour",
+    "sub-title": "Les mises à jour fréquentes effectuées par le Dr Lanthier lui-même signifient que vos décisions sont étayées par les dernières preuves médicales.",
+    "text": "Environ trois mises à jour de contenu par an."
+  },
+  "Feature-topics.title": "Sujets en vedette",
+  "Feature-topics.link1": {
+    "title": "Cardiologie",
+    "url": ""
+  },
+  "Feature-topics.link2": {
+    "title": "Dermatologie",
+    "url": ""
+  },
+  "Feature-topics.link3": {
+    "title": "Endocrinologie",
+    "url": ""
+  },
+  "Feature-topics.link4": {
+    "title": "Gastroentérologie",
+    "url": ""
+  },
+  "Feature-topics.link5": {
+    "title": "Hématologie",
+    "url": ""
+  },
+  "Feature-topics.link6": {
+    "title": "Maladies infectieuses",
+    "url": ""
+  },
+  "Feature-topics.link7": {
+    "title": "Médecine interne générale",
+    "url": ""
+  },
+  "Feature-topics.link8": {
+    "title": "Néphrologie",
+    "url": ""
+  },
+  "Feature-topics.link9": {
+    "title": "Neurologie",
+    "url": ""
+  },
+  "Feature-topics.link10": {
+    "title": "Oncologie",
+    "url": ""
+  },
+  "Feature-topics.link11": {
+    "title": "Pneumologie",
+    "url": ""
+  },
+  "Feature-topics.link12": {
+    "title": "Rhumatologie",
+    "url": ""
+  },
+  "Doctors-item1": {
+    "name": "Luc Lanthier",
+    "position": "MD, MSc, FRCPC, FACP",
+    "text": "Dr Luc Lanthier practices General Internal Medicine at the Sherbrooke University Hospital Center and is a Professor of Medicine at the Faculty of Medicine and Health Sciences of the University of Sherbrooke. He is former chair of the French Examination Board for Internal Medicine Exam at the Royal College of Physicians and Surgeons of Canada."
+  },
+  "Doctors-item2": {
+    "name": "Donald Echenberg",
+    "position": "MD, FRCPC, MACP",
+    "text": "Dr Donald Echenberg exerce la médecine interne générale au Centre hospitalier universitaire de Sherbrooke et est professeur agrégé de médecine à la faculté de médecine et des sciences de la santé de l'Université de Sherbrooke. Il a été président de la Société canadienne de médecine interne et est actuellement gouverneur de la section du Québec de l'American College of Physicians."
+  },
+  "Footer-links-1": "FAQ",
+  "Footer-links-2": "Blog",
+  "Footer-links-3": "Obtenir la version papier",
+  "Footer-links-4": "Dossier de presse",
+  "Footer-links-5": "Avertissement",
+  "Footer-copy": "© 2019 Messil Inc. Tous droits réservés.",
+  "Footer-infectio-text": "Avez-vous des besoins plus spécifiques en matière de maladies infectieuses?",
+  "Footer-infectio-button": "Essayez l'application Infectio",
+  "Mobile-menu.close-button": "Fermer",
+  "Mobile-menu.login-button": "Connectez-vous à votre compte"
+}
