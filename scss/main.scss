@@ -1,0 +1,15 @@
+// include another .scss file from a sub-directory
+@import './about/about.scss';
+
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #333333;
+  canvas {
+    border-bottom: 5px solid rgb(255, 215, 0);
+  }
+}
